@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...philaiphe@gmail.com
 - 😄 Pronouns: ... portuguese, and litle English
-- ⚡ Fun fact: i want to be a gret programor
+- ⚡ Fun fact: i want to be a great programor
 
 <!---
 Filicass/Filicass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
